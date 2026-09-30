@@ -1,4 +1,4 @@
-## **proyecto_integradora** ##
+## 📚 **proyecto_integradora** ##
 **Integrantes del equipo:**
 
 -Obregon Ramírez María Fernanda 
