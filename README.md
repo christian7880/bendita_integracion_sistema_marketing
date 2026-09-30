@@ -1,4 +1,4 @@
-## **proyecto_integradora**
+## **proyecto_integradora** ##
 **Integrantes del equipo:**
 
 -Obregon Ramírez María Fernanda 
@@ -11,5 +11,8 @@
 
 -Gonzalez Alvarado Maximiliano 
 
-Este es el link para las tablas Tablero de trabajo
+---
+
+**Este es el link para las tablas Tablero de trabajo:**
+
 [Tablero Kanban](https://github.com/users/christian7880/projects/1)
